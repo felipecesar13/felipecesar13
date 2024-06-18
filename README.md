@@ -1,3 +1,3 @@
-## Hello welcome. 🤗
+## Hello welcome.
 
-### Sorry for the mess I'm still fixing things around here. 😄
+### Let's write codes and generate more solutions.
