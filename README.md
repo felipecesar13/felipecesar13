@@ -1,3 +1,3 @@
 ## Hello welcome.
 
-### Let's write codes and generate more solutions.
+### Let's write codes and generate solutions.
