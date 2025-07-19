@@ -2,7 +2,7 @@
 
 ### Let's write codes and generate solutions.
 
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá!
 
 <div align="center">
   
